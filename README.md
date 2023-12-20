@@ -46,7 +46,7 @@ anshitiwari1108@gmail.com
 
 Sadneya Samant
 
-2022.sadneya.samant@ves.ac.in
+sadneyasam05@gmail.com
 
 Shejal Tiwari
 
