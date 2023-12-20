@@ -59,4 +59,5 @@ Secure authentication system allowing users to sign up for new accounts and log 
   - Email: 2022.akanksha.shinde@ves.ac.in
 
 ## Acknowledgments
-- Mention any acknowledgments or references used in the development process.
+- For QR code generation, we used this repo as reference:
+- https://github.com/Gaurang18/QR-Code-Generator.git
